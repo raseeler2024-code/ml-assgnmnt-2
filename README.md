@@ -28,7 +28,7 @@ The dataset exceeds the assignment minimums of 500 instances and 12 features. It
 
 ## Live Streamlit App Link
 
-> Replace this placeholder after deployment: **[Live Streamlit App](https://YOUR-APP.streamlit.app)**
+**[Live Streamlit App](https://ml-assgnmnt-2.streamlit.app)**
 
 ## d. Models used and comparison
 
@@ -108,13 +108,13 @@ The app expects exactly 64 numeric feature columns named `pixel_0_0` through `pi
 3. Create a new app and select the repository and branch.
 4. Set the entry point to `app.py` and deploy.
 5. Open the public URL, upload `test_data.csv`, and confirm all model results render.
-6. Update the GitHub and live-app placeholders near the top of this README.
+6. Confirm the GitHub and live-app links near the top of this README open correctly.
 
 ## Assignment submission checklist
 
 - [ ] Run the project on the BITS Virtual Lab and capture one screenshot.
 - [ ] Push the complete project and meaningful commit history to GitHub.
 - [ ] Deploy `app.py` to Streamlit Community Cloud.
-- [ ] Replace both link placeholders in this README.
+- [x] Add the GitHub repository and live Streamlit app links to this README.
 - [ ] Create a single submission PDF in the mandated order: GitHub link, live app link, BITS Lab screenshot, then this README content.
 - [ ] Open every link in the final PDF before submitting it.
