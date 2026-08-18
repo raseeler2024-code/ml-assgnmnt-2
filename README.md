@@ -112,9 +112,9 @@ The app expects exactly 64 numeric feature columns named `pixel_0_0` through `pi
 
 ## Assignment submission checklist
 
-- [ ] Run the project on the BITS Virtual Lab and capture one screenshot.
-- [ ] Push the complete project and meaningful commit history to GitHub.
-- [ ] Deploy `app.py` to Streamlit Community Cloud.
+- [x] Run the project on the BITS Virtual Lab and capture one screenshot.
+- [x] Push the complete project and meaningful commit history to GitHub.
+- [x] Deploy `app.py` to Streamlit Community Cloud.
 - [x] Add the GitHub repository and live Streamlit app links to this README.
-- [ ] Create a single submission PDF in the mandated order: GitHub link, live app link, BITS Lab screenshot, then this README content.
-- [ ] Open every link in the final PDF before submitting it.
+- [x] Create a single submission PDF in the mandated order: GitHub link, live app link, BITS Lab screenshot, then this README content.
+- [x] Open every link in the final PDF before submitting it.
